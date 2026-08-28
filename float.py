@@ -1,4 +1,4 @@
-my_float_var = 4.50
-print("Float is a number with a decimal point.")
-print("Float:", my_float_var)
-print(type(my_float_var))
+my_float_1 =  -12.0
+my_float_2 = 4.9
+print(f"{type(my_float_1)}")
+print(f"{type(my_float_2)}")
