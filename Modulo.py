@@ -1,3 +1,3 @@
-my_float_1 = 6.6
-my_float_2 = 18.7
-print(f"Float Modulo: {my_float_1 % my_float_2}")
+my_int_1 = 87
+my_int_2 = 6
+print(f"Integer Modulo: {my_int_1 % my_int_2}")

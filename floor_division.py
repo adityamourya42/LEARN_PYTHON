@@ -1,3 +1,3 @@
-my_float_1 = 5.9
-my_float_2 = 12.0
-print(f"Float Floor Division: {my_float_1 // my_float_2}")
+my_int_1 = 56
+my_int_2 = 12
+print(f"Integer Floor Division: {my_int_1 // my_int_2}")

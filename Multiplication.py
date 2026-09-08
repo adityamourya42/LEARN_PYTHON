@@ -1,3 +1,3 @@
-My_float_1 = 5.4
-My_float_2 = 13.7
-print(f"Float Multiplication : {My_float_1 * My_float_2}")
+my_int_1 = 15
+my_int_2 = 107
+print(f"Integer Multiplication: {my_int_1 * my_int_2}")

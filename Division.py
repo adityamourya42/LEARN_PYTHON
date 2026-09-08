@@ -1,3 +1,3 @@
-my_float = 76.0
-my_float_1 = 4.0
-print(f"Float Division: {my_float / my_float_1}")
+my_int_1 = 70
+my_int_2 = 12
+print(f"Integer Division: {my_int_1 / my_int_2}")

@@ -1,3 +1,3 @@
-my_float_1 = 87.6
-my_float_2 = 37.9
-print(f"Float Subtraction: {my_float_1 - my_float_2}")
+my_int_1 = 56
+my_int_2 = 26
+print(f"Integer Difference: {my_int_1 - my_int_2}")
