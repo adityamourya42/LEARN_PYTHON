@@ -1,0 +1,26 @@
+marvel_movies = ["Iron Man", "Spiderman", "Thor", "Black Panther"]
+print(marvel_movies)
+marvel_movies.append("Doctor Strange")
+print(marvel_movies)
+dc_movies = ["Batman", "Flash", "Shazam", "Aquaman"]
+print(dc_movies)
+marvel_movies.extend(dc_movies)
+print(marvel_movies)
+marvel_movies1 = ["Iron Man", "Thor", "Hulk"]
+print(marvel_movies1)
+marvel_movies1.insert(1, "Captain America")
+print(marvel_movies1)
+marvel_movies.remove("Black Panther")
+marvel_movies.remove("Doctor Strange")
+print(marvel_movies)
+print(marvel_movies.pop(1))
+print(marvel_movies)
+print(marvel_movies.pop())
+even_numbers = [2,4,6,8,10]
+print(even_numbers)
+print(even_numbers.clear())
+marvel_movies1.sort()
+print(marvel_movies1)
+print(sorted(marvel_movies))
+marvel_movies1.reverse()
+print(marvel_movies1)
