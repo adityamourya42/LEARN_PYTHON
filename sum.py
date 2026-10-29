@@ -1,9 +1,7 @@
-def calculate_sum(a,b):
-    print(a+b)
-my_sum = calculate_sum(3,1)
-print(my_sum)
+num = [10,36,4,32,18]
+t = sum(num)
+print(t)
 
-def Multiply(a,b):
-    return a * b
-my_product = Multiply(5,15)
-print(my_product)
+n= [10,36,4,32,18]
+t1 = sum(n, 150)
+print(t1)
